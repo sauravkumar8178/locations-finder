@@ -12,4 +12,4 @@ In real world people to find the best path to achieve the destination but many t
   2. Static Web Apps
 
 # The Project in action (link) :
-[Website Link]y(https://black-island-056b17610.1.azurestaticapps.net/)
+[Website Link](https://black-island-056b17610.1.azurestaticapps.net/)
